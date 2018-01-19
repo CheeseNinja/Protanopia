@@ -1,7 +1,6 @@
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
-import java.util.Scanner;
 //First intesection- The circle has to match the corresponding color of the square
 //Second intersection- The circle has to go against the corresponding color of the square
 //More negative, circle is winning, more positive, square is winning
