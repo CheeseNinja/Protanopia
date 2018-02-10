@@ -8,7 +8,6 @@ public class Protanopia extends JFrame{
   int x, y, recX, recY, colorCode, upCode;
   private Image dbImage;
   private Graphics dbg;
-  boolean shoot;
   Font font = new Font("Arial",Font.BOLD |Font.ITALIC, 30);
   Font font1 = new Font("Arial",Font.BOLD,20);
   boolean gameStatus = true;
